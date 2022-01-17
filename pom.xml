@@ -10,10 +10,10 @@
 	</parent>
 	<groupId>practice</groupId>
 	<artifactId>RestAPI</artifactId>
-	
+	<version>1.0</version>
 	<name>RestAPI</name>
 	<description>project for Jenkins</description>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
